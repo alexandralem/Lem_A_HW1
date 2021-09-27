@@ -1,1 +1,4 @@
-# Lem_A_HW1
+# My Amazing Team Project
+
+This is all about my teammates.
+There are designers and developers among us.
